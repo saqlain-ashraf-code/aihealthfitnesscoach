@@ -1,0 +1,77 @@
+`index.html`
+
+   - `style.css`
+
+   (I'll recap these files now)
+
+
+
+Here are the files again:
+
+
+
+**index.html**
+
+```
+<html>
+
+<head>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<!-- paste HTML code I gave earlier here -->
+
+<!-- copying from earlier -->
+
+<html>
+
+<head>
+
+<style>
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+  <h1>AI Fitness Coach</h1>
+
+</header>
+
+<main>
+
+  <!-- rest of HTML code -->
+
+</main>
+
+</body>
+
+</html>
+
+```
+
+ 
+
+**style.css**
+
+```
+body { 
+
+  background-color: #032B44; 
+
+  color: #fff; 
+
+}
+
+```
+
+ 
+
+Want me to walk through uploading these files?
